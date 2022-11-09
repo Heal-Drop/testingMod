@@ -1,0 +1,8 @@
+{
+  "item.testingmod.zircon": "Zircon",
+  "item.testingmod.raw_zircon": "Raw Zircon",
+  "item.testingmod.iolite": "Iolite",
+  "item.testingmod.raw_iolite": "Raw Iolite",
+
+  "itemGroup.testingtab": "Testing Tab"
+}
