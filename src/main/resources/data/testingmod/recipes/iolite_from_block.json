@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testingmod:iolite_block"
+    }
+  ],
+  "result": {
+    "item": "testingmod:iolite",
+    "count": 9
+  }
+}

@@ -4,5 +4,9 @@
   "item.testingmod.iolite": "Iolite",
   "item.testingmod.raw_iolite": "Raw Iolite",
 
+  "block.testingmod.iolite_block": "Block of Iolite",
+  "block.testingmod.iolite_ore": "Iolite Ore",
+  "block.testingmod.deepslate_iolite_ore": "Deepslate Iolite Ore",
+
   "itemGroup.testingtab": "Testing Tab"
 }

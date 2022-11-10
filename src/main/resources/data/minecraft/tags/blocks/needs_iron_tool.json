@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "testingmod:iolite_ore",
+    "testingmod:iolite_block",
+    "testingmod:deepslate_iolite_ore"
+  ]
+}
