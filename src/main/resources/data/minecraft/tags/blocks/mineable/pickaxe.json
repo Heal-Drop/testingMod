@@ -3,6 +3,8 @@
   "values": [
     "testingmod:iolite_ore",
     "testingmod:iolite_block",
-    "testingmod:deepslate_iolite_ore"
+    "testingmod:deepslate_iolite_ore",
+    "testingmod:netherrack_iolite_ore",
+    "testingmod:endstone_iolite_ore"
   ]
 }

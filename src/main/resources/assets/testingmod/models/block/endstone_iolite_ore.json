@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "testingmod:block/endstone_iolite_ore"
+  }
+}

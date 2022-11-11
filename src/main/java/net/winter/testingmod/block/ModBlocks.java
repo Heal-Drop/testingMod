@@ -29,14 +29,20 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> IOLITE_ORE = registerBlock("iolite_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops(),
+                    .strength(3f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 6)), ModCreativeModeTab.TESTING_TAB);
     public static final RegistryObject<Block> DEEPSLATE_IOLITE_ORE = registerBlock("deepslate_iolite_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops(),
+                    .strength(3f).requiresCorrectToolForDrops(),
                     UniformInt.of(4, 7)), ModCreativeModeTab.TESTING_TAB);
-
-
+    public static final RegistryObject<Block> NETHERRACK_IOLITE_ORE = registerBlock("netherrack_iolite_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(2f).requiresCorrectToolForDrops(),
+                    UniformInt.of(5, 8)), ModCreativeModeTab.TESTING_TAB);
+    public static final RegistryObject<Block> ENDSTONE_IOLITE_ORE = registerBlock("endstone_iolite_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(3f).requiresCorrectToolForDrops(),
+                    UniformInt.of(7, 10)), ModCreativeModeTab.TESTING_TAB);
 
     private static <T extends Block> RegistryObject <T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab){
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

@@ -7,6 +7,8 @@
   "block.testingmod.iolite_block": "Block of Iolite",
   "block.testingmod.iolite_ore": "Iolite Ore",
   "block.testingmod.deepslate_iolite_ore": "Deepslate Iolite Ore",
+  "block.testingmod.netherrack_iolite_ore": "Netherrack Iolite Ore",
+  "block.testingmod.endstone_iolite_ore": "Endstone Iolite Ore",
 
   "itemGroup.testingtab": "Testing Tab"
 }
